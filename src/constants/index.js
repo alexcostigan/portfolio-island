@@ -141,4 +141,11 @@ export const projects = [
     description: "Simple UI project to test my NextJS skills",
     link: "https://travel-app-alex.netlify.app/",
   },
+  {
+    iconUrl: react,
+    theme: "btn-back-yellow",
+    name: "iPhone website",
+    description: "An iPhone clone website to showcase my threeJS skills",
+    link: "https://alex-iphone-webite.netlify.app",
+  }
 ];
